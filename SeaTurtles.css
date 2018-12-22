@@ -1,0 +1,81 @@
+/*
+*Maura Mullen
+*December 21
+*SeaTurtles
+*/
+/* The universal selector*/
+
+/*Body attributes here*/
+
+
+* {margin: 0;
+  padding: 0;}
+
+body{
+    font-family: "Sinhala Sangam MN", "Georgia", serif;
+background-color: lightgreen;
+     width: 80%;
+    margin: auto;
+}
+
+
+/* this is an image*/
+#TurtleColorfulShell{float: left;
+    width: 330px;
+    height: 230px;
+    margin: 10px 20px 10px 10px;} 
+
+/*this is the header*/
+header {
+    height: 90px;
+    width: 850px;
+    border-bottom: 5px solid navy;
+    text-align: center;
+}
+
+h2{
+    margin: 8px 5px 8px 5px;
+} 
+
+#loggerhead {float: right;
+    width:230px;
+    height:150px;
+    margin: 15px 15px 10px 15px
+
+}
+
+#green {float:right;
+    width:230px;
+    height:150px;
+    margin: 15px 15px 10px 15px
+}
+
+#leatherback {float:right;
+    width:230px;
+    height:150px;
+    margin: 15px 15px 10px 15px
+}
+
+#hawksbill {float:right;
+     width:230px;
+    height:150px;
+    margin: 15px 15px 10px 15px
+}
+/*this is the footer*/
+footer{height: 90px;
+    width: 850px;
+    border-top: 5px solid navy;
+}
+
+
+h5{
+    float:right
+}
+
+
+
+
+
+
+
+
